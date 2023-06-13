@@ -106,5 +106,11 @@ export const robots = [
     name: 'Georg Kaktus',
     username: 'kaktus_gerg',
     email: 'kaktgerg@gmail.no'
+  },
+  {
+    id: 19,
+    name: 'Carl Johansen',
+    username: 'robotencarl',
+    email: 'carlrobotepost@epost.com'
   }
 ];
